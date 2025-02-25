@@ -37,5 +37,5 @@ cd PERSONAL_FINANCE_MANAGER
 ```
 3. Run the application:
 ```sh
-python finance_manager.py
+python src/finance_manager.py
 ```
